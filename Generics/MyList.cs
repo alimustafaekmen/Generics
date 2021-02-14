@@ -7,7 +7,7 @@ namespace Generics
     class MyList<T>
     {
         T[] _array;
-
+        
         public MyList()
         {
             _array = new T[0];
