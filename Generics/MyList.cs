@@ -18,7 +18,7 @@ namespace Generics
             _array = new T[_array.Length + 1];
             for (int i = 0; i < tempArray.Length; i++)
             {
-                _array[i] = tempArray[i];
+                _array[i] = tempArray[i]; 
             }
 
             _array[_array.Length - 1] = items;
