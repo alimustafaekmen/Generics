@@ -6,7 +6,7 @@ namespace KampIntro
     {
         static void Main(string[] args)
         {
-            string kategoriEtiketi = "Kategori";
+            string kategoriEtiketi = "Kategori"; 
             int oğrenciSayisi = 32000;
             double faizOrani = 1.45;
             bool sistemeGirişYapmismi = true;
